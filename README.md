@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexPi44
 - 👀 I’m interested in gaining experience in coding
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently on Python, Full Stack Dev
 - 💞️ I’m looking to collaborate on different areas
 - 📫 How to reach me ...
 - 😄 Pronouns: all
